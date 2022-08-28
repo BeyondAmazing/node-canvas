@@ -57,6 +57,7 @@
   },
   "devDependencies": {
     "@types/node": "^10.12.18",
+    "@types/readable-stream": "^2.3.14",
     "assert-rejects": "^1.0.0",
     "dtslint": "^4.0.7",
     "express": "^4.16.3",
