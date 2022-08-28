@@ -1,7 +1,7 @@
 // TypeScript Version: 3.0
 /// <reference lib="dom" />
 
-import { Readable } from 'stream'
+import { Readable } from 'readable-stream'
 
 export interface PngConfig {
 	/** Specifies the ZLIB compression level. Defaults to 6. */
